@@ -1,0 +1,17 @@
+Name: モボ
+File: - Mobo-Regular.woff2
+      - Mobo-SemiBold.woff2
+
+Copyright (c) 2023, フロップデザイン (https://flopdesign.booth.pm/items/4647262)
+License: SIL Open Font License 1.1　
+https://openfontlicense.org
+
+---
+
+Name: OpenRunde
+File: - OpenRunde-Regular.woff2
+      - OpenRunde-Semibold.woff2
+
+Copyright (c) 2016 The Inter Project Authors (https://github.com/rsms/inter)
+License: SIL Open Font License 1.1　
+https://openfontlicense.org
