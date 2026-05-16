@@ -65,10 +65,11 @@
                                     は、和歌山大学の非公式シラバス検索サービスです。
                                 </p>
                                 <ul
-                                    class="list-disc mb-6 text-xs text-slate-600 underline"
+                                    class="list-disc mb-6 text-xs text-slate-600"
                                 >
                                     <li class="list-inside">
                                         <a
+                                            class="underline"
                                             href="https://github.com/tanikimi/syllabus-search"
                                             target="_blank">GitHubリポジトリ</a
                                         >
@@ -106,28 +107,32 @@
                                     谷川 木穣 / Kiminori Tanigawa
                                 </p>
                                 <ul
-                                    class="list-disc mb-6 text-xs text-slate-600 underline"
+                                    class="list-disc mb-6 text-xs text-slate-600"
                                 >
                                     <li class="list-inside mb-2">
                                         <a
+                                            class="underline"
                                             href="https://kiminori.me/"
                                             target="_blank">ホームページ</a
                                         >
                                     </li>
                                     <li class="list-inside mb-2">
                                         <a
+                                            class="underline"
                                             href="mailto:s2310155＠wakayama-u.ac.jp"
                                             target="_blank">大学メール</a
                                         >
                                     </li>
                                     <li class="list-inside mb-2">
                                         <a
+                                            class="underline"
                                             href="mailto:hello@kiminori.me"
                                             target="_blank">個人メール</a
                                         >
                                     </li>
                                     <li class="list-inside">
                                         <a
+                                            class="underline"
                                             href="https://x.com/kiminori_me"
                                             target="_blank">X</a
                                         >
@@ -139,13 +144,20 @@
                                 <p class="mb-2 text-xs text-slate-600">
                                     ©︎ 2026 Syllabus Search / Kiminori Tanigawa
                                 </p>
-                                <ul
-                                    class="list-disc text-xs text-slate-600 underline"
-                                >
+                                <ul class="list-disc text-xs text-slate-600">
+                                    <li class="list-inside mb-2">
+                                        <a
+                                            class="underline"
+                                            href="https://github.com/tanikimi/syllabus-search/blob/main/license/license.txt"
+                                            target="_blank">OSSライセンス</a
+                                        >
+                                    </li>
                                     <li class="list-inside">
                                         <a
-                                            href="https://github.com/tanikimi/syllabus-search/blob/master/license/license.txt"
-                                            target="_blank">OSSライセンス</a
+                                            class="underline"
+                                            href="https://github.com/tanikimi/syllabus-search/blob/main/license/font-license.txt"
+                                            target="_blank"
+                                            >フォントライセンス</a
                                         >
                                     </li>
                                 </ul>
