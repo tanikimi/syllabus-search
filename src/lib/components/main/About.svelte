@@ -148,14 +148,14 @@
                                     <li class="list-inside mb-2">
                                         <a
                                             class="underline"
-                                            href="https://github.com/tanikimi/syllabus-search/blob/main/license/license.txt"
+                                            href="https://github.com/tanikimi/syllabus-search/blob/main/licenses/license.txt"
                                             target="_blank">OSSライセンス</a
                                         >
                                     </li>
                                     <li class="list-inside">
                                         <a
                                             class="underline"
-                                            href="https://github.com/tanikimi/syllabus-search/blob/main/license/font-license.txt"
+                                            href="https://github.com/tanikimi/syllabus-search/blob/main/licenses/font-license.txt"
                                             target="_blank"
                                             >フォントライセンス</a
                                         >
