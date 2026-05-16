@@ -28,7 +28,7 @@
             class="bg-emerald-50 hidden font-semibold ml-2 px-2 py-1 rounded-full shrink-0 text-emerald-600 text-xs sm:block"
             href="https://github.com/tanikimi/syllabus-search"
             target="_blank"
-            >v 1.0.0
+            >v 1.0.1
         </a>
         <div class="relative ml-auto mr-4 w-fit sm:ml-6 sm:w-full">
             <div
