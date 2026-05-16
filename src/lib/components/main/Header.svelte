@@ -32,7 +32,7 @@
         </a>
         <div class="relative ml-auto mr-4 w-fit sm:ml-6 sm:w-full">
             <div
-                class="bg-white fixed gap-4 items-center left-0 pl-4 pr-6 py-6 top-0 w-full sm:block sm:relative sm:p-0 {isSearchOpen
+                class="bg-white fixed gap-4 items-center left-0 pb-4 pl-4 pr-6 pt-6 top-0 w-full sm:block sm:relative sm:p-0 {isSearchOpen
                     ? 'flex'
                     : 'hidden'}"
             >
