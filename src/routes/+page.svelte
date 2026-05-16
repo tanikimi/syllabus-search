@@ -10,7 +10,6 @@
 
     // メイン部コンポーネントの読み込み
     import Header from "../lib/components/main/Header.svelte";
-    import Skelton from "../lib/components/main/Skeleton.svelte";
     import ClassItem from "../lib/components/main/ClassItem.svelte";
 
     // アイコンの読み込み
